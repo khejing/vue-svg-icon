@@ -2,6 +2,8 @@
 > a solution for multicolor svg icons in vue2
 > [轻量的Vue2多色动态svg图标方案 中文版说明](#chineseversion)
 
+两个bug：1，node.getAttribute()用错了，直接访问属性就好；2，subNode那里的if判断用的node，明显错了
+
 ##### v1.2.9
 
 **demo:** https://cenkai88.github.io/vue-svg-icon/demo/  
