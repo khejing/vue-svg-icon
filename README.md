@@ -3,8 +3,8 @@
 > [轻量的Vue2多色动态svg图标方案 中文版说明](#chineseversion)
 
 这个项目用css控制svg还是挺好玩的，值得为其改bug。目前明显有两个bug：
-1，node.getAttribute()用错了，直接访问属性就好
-2，subNode那里的if判断用的node，明显错了
+1. node.getAttribute()用错了，直接访问属性就好
+2. subNode那里的if判断用的node，明显错了
 
 ##### v1.2.9
 
